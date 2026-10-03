@@ -1,0 +1,26 @@
+ProductID,ProductName,Category,Price
+1,Laptop,Electronics,"1,296$"
+2,Phone,Electronics,586.31
+3,Tablet,Electronics,1369.56
+4,Camera,Electronics,872$
+5,Headphones,Electronics,Two Hundred
+6,Chair,Furniture,437.73
+7,Table,Furniture,479.86
+8,Sofa,Furniture,62.67
+9,Bed,Furniture,713.49
+10,Wardrobe,Furniture,706.36
+11,Shirt,Clothing,1702.61
+12,Pants,Clothing,1472.98
+13,Dress,Clothing,788.14
+14,Jacket,Clothing,1256.11
+15,Shoes,Clothing,"1,423$"
+16,Novel,Books,494.4
+17,Textbook,Books,503.94
+18,Magazine,Books,1289.58
+19,Notebook,Books,458.54
+20,Comics,Books,1313.67
+21,Car Toy,Toys,1471.8
+22,Doll,Toys,1979.57
+23,Puzzle,Toys,1385.0
+24,Lego,Toys,496$
+25,Ball,Toys,665.13
